@@ -56,6 +56,8 @@
 
 ### Live demo <a name="Live-demo"></a>
 
+[Live link](https://react-capstone-5dh7nf4dn-erickma1s-projects.vercel.app/)
+
 [Demo](https://www.loom.com/share/004680bfb07f44b5bda8d58677468391)
 
 
@@ -63,6 +65,7 @@
 
 
 <!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
