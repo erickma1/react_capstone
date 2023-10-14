@@ -56,7 +56,7 @@
 
 ### Live demo <a name="Live-demo"></a>
 
-Demo(https://www.loom.com/share/004680bfb07f44b5bda8d58677468391)
+[Demo](https://www.loom.com/share/004680bfb07f44b5bda8d58677468391)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
