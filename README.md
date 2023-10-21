@@ -50,6 +50,7 @@
 - **[A filtering feature enables users to search for specific teams.]**
 - **[Users can explore data from different seasons by adjusting the year value.]**
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
